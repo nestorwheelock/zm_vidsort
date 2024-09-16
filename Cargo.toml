@@ -1,0 +1,8 @@
+[package]
+name = "zm_vidsort"
+version = "0.1.0"
+edition = "2021"
+author = "Nestor Wheelock"
+description = "Sorts a zomeinder download directory removes directories and extraneous files"
+license = "GNU GPLv3"
+[dependencies]
